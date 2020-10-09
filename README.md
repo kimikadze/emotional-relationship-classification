@@ -1,4 +1,4 @@
-# Emotional Relationship Classification
+# Emotional Relationship Classification with Keras
 
 The repository contains the code for the classification of emotional character relationships with GRU (Keras). Current implementation is based on the following paper:
 
